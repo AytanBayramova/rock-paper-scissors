@@ -1,0 +1,40 @@
+.computer-choice{
+    font-size: 40px ;
+    color: rgb(200, 18, 18); 
+    text-align: center;
+    margin-top: 70px;
+}
+
+.user-choice{
+    font-size: 40px;
+    color: rgb(180, 85, 22);
+    text-align: center;
+    margin-top: 70px;
+}
+
+.result{
+    font-size: 40px;
+    color: rgb(10, 93, 5);
+    text-align: center;
+    margin-top: 70px;
+    
+}
+
+button{
+    font-size: 30px;
+    cursor: pointer;
+    color: rgb(105, 46, 1);
+    background-color: rgb(232, 161, 21);
+    margin-left: 10px;
+    border-radius: 8px;
+    margin-top: 90px;
+}
+
+.button{
+    text-align: center;
+    
+}
+
+body{
+background-color: rgb(246, 229, 179);
+}
